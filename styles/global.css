@@ -8,3 +8,16 @@
 /* the font-family 'JetBrains Mono', has been linked
  * and is available for your use
  * */
+body{
+  height: 100vh;
+  padding: 25px;
+  font-size: 20px;
+}
+h1, h3{
+font-size: 35px;
+text-align: center;
+}
+h4{
+  color: rgb(14, 14, 99);
+  font-size: 25px;
+}
